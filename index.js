@@ -1,0 +1,1 @@
+console.log('have u ready to learned jenkins yet ?')
